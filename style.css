@@ -9,6 +9,7 @@
     --winning-blocks: #2d414b;
 }
 
+/*  General style*/
 body {
     color: var(--orange);
     font-family: 'Finger Paint', cursive;
@@ -45,6 +46,9 @@ h1 {
     border-right: 2px solid;
     border-bottom: 2px solid;
 }
+
+/*eliminate the bottom lines*/
+
 .box:nth-child(3n) {
     border-right: none;
 }
@@ -61,6 +65,8 @@ button {
     transition: 200ms transform;
     font-weight: 600;
 }
+
+/*Adding some effect to the button start*/
 button:hover {
     cursor: pointer;
     transform: translateY(-2px);
