@@ -1,6 +1,6 @@
 # TIC TAC TOE 
 
-Unleash Your Inner Tactician: A JavaScript Tic Tac Toe for Two!
+- Unleash Your Inner Tactician: A JavaScript Tic Tac Toe for Two!
 Calling all Tic Tac Toe enthusiasts! Sharpen your pencils (or, rather, sharpen your clicking fingers) and prepare to battle it out with a friend in this classic game, brought to life with JavaScript.
 
 ![Responsice Mockup](assets/images/tic_tac_toe_mockup.png)
@@ -10,47 +10,32 @@ Calling all Tic Tac Toe enthusiasts! Sharpen your pencils (or, rather, sharpen y
 
 - __The TIC TAC TOE Heading__
 
-  - Featured at the top of the page, the Love Maths logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the game.
+ - The game title is displayed clearly on the page.
 
-![Logo](media/love_maths_logo.png)
+![Title](assets/images/title_png.png)
 
 - __The Game Area__
 
-  - This section will allow the user to play the maths game. The user will be able to easily see icons for addition,  subtraction, multiplication, and division games.
-  - The user will be able to select the type of maths game they will be playing by clicking on the different icons. 
+  - This section will allow the user to play the  game. The user will be able to easily see the area to click on.
+ 
 
-![Game](media/love_maths_icons.png)
+![Game](assets/images/game_area.png)
 
-- __The Question section__
+- __Restart Section__
 
-  - The question section is where the user will be able to see the elementary arithmetic question to answer as part of the game. The user will be able answer the questions in the answer box provide
-  - The user will be able to submit their answer and a pop-up will make it known to the user if they answered correctly. 
+  
+  - The user will be able to restart the game just clicking the button restart 
 
-![Question](media/love_maths_question.png)
+![Restart](assets/images/restart.png)
 
-- __The Score Area__
 
-  - This section will allow the user to see exactly how many correct and incorrect answers they have provided. 
 
-![score](media/love_maths_answer.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
-- Another feature idea
+- Adding the possibility to play against the AI
 
-## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
 ### Validator Testing 
